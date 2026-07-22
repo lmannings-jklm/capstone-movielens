@@ -18,7 +18,7 @@ recommendation system using all the tools we have learned throughout the courses
 ### Codes and Resourses
 
 - **Editor:** RStudio 2026.07.0 Build 139
-- **R Version:** R version 4.5.0 (2025-04-11 ucrt)
+- **R Version:** R version 4.5.0 (2025-04-11 ucrt))
 ---
 ### R Packages Used
 The following libraries and options are required to complete the assignment:
