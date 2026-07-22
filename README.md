@@ -1,15 +1,19 @@
 ![Header Image](movielens-v0-v4.png)
-<h1 style="border-bottom: none;">Harvard Data Science Capstone: MovieLens</h1>
+# Harvard Data Science Capstone: MovieLens
 
-<h2 style="border-bottom: none;">1. Project Overview</h2>
+## 1. Project Overview
 For this project, we will create a movie recommendation system using the MovieLens dataset. We will be creating our own
 recommendation system using all the tools we have learned throughout the courses in this series.
 
-<h2 style="border-bottom: none;">2. Key Questions</h2>
+---
+
+## 2. Key Questions
 - How can we familiarize ourselves with the MovieLens data?
 - How can we train a machine learning algorithm to predict movie ratings in the validation set?
 
-<h2 style="border-bottom: none;">3. Installation and Setup</h2>
+---
+
+## 3. Installation and Setup
 
 ### Codes and Resourses
 
@@ -21,7 +25,7 @@ The following libraries and options are required to complete the assignment:
 ### $\color{red}{\text{TO BE ADDED LATER}}$
 ---
 
-<h2 style="border-bottom: none;">4. Data</h2>
+## 4. Data
 
 ### Source Data
 The source data for this project is the [10M version](https://grouplens.org/datasets/movielens/10m/) of the MovieLens dataset to make the computation a little easier.
@@ -33,15 +37,18 @@ The source data is not presumed to meet [**tidy data** standards](https://cran.r
 
 ---
 
-<h2 style="border-bottom: none;">5. Project Structure</h2>
+## 5. Project Structure
 
 Project Repository structure is outlined below.
 ``` text
 To be added later.
 ```
-<h2 style="border-bottom: none;">6. Results and Evaluation</h2>
+---
+## 6. Results and Evaluation
 
 ### $\color{red}{\text{TO BE ADDED LATER}}$
-<h2 style="border-bottom: none;">7. Acknowledgements / References</h2>
+---
+## 7. Acknowledgements / References
 
 ### $\color{red}{\text{TO BE ADDED LATER}}$
+---
